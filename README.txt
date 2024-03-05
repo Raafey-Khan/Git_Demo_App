@@ -29,7 +29,7 @@ And the files in this area, git already manages them and knows there verison his
 changes and creates a version out of it
 
 
-8. `git commit` --> registers staging changes to a commit
+
  
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
