@@ -9,7 +9,6 @@ git yet a file which is in working area is considered to be not in the staging a
 When we do `git status` and we see bunch of `untracked files` then these are actually called to be in the working area.
 
 
-
 3. `Staging area` -> What all files are going to part of the next version we will create.
 This staging area is the place where git knows what changes will be done from the
 last version to the next version.
@@ -42,7 +41,9 @@ or we can say restore last clean version of the file.
 
 
 11. `git restore --staged <file>` -> it removes file changes from staging area to the working area.
+this only works if changes are in your staging area.
 
+12. hello world
 
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
