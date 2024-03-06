@@ -31,7 +31,18 @@ changes and creates a version out of it
 
 8. `git commit` --> registers staging changes to a commit.
 
-9. working with git
+
+9. `git log` --> list downs all the commits of the repository. If you want to exit out of git log prompt
+press `q`.
+
+
+10. `git restore <files> ` --> it removes all files changes from the staging area to be commited.
+this can be useful if we did some dirty peice of code now no want it. Instead of deleting every change line by line we can restore it
+or we can say restore last clean version of the file.
+
+
+
+
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
 to stanging area which are now be considered as tracked files ready to be commited.
