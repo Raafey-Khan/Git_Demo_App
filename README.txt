@@ -46,8 +46,13 @@ this only works if changes are in your staging area.
 
 12. hello world
 
-can you see me
 
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
 to stanging area which are now be considered as tracked files ready to be commited.
+
+
+
+
+
+
