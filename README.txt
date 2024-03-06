@@ -18,6 +18,7 @@ last version to the next version.
 And the files in this area, git already manages them and knows there verison history
 
 
+
 5. `git add <file>` -> moves file from working area to staging area
 
 
@@ -44,6 +45,8 @@ or we can say restore last clean version of the file.
 this only works if changes are in your staging area.
 
 12. hello world
+
+can you see me
 
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
