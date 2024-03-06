@@ -44,15 +44,10 @@ or we can say restore last clean version of the file.
 11. `git restore --staged <file>` -> it removes file changes from staging area to the working area.
 this only works if changes are in your staging area.
 
-12. hello world
+
 
 
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
 to stanging area which are now be considered as tracked files ready to be commited.
-
-
-
-
-
 
