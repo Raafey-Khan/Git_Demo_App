@@ -41,6 +41,7 @@ this can be useful if we did some dirty peice of code now no want it. Instead of
 or we can say restore last clean version of the file.
 
 
+11. `git restore --staged <file>` -> it removes file changes from staging area to the working area.
 
 
 `stikcy note`
