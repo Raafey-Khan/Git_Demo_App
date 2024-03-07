@@ -50,7 +50,7 @@ otherwise if we just want the changes to be moved in working area or staging are
 
 
 14. `` -> if we want to avoid opening a text editor like vim/nano to add commit message we can use 
-this following command
+this following command  
 
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
