@@ -44,9 +44,13 @@ or we can say restore last clean version of the file.
 11. `git restore --staged <file>` -> it removes file changes from staging area to the working area.
 this only works if changes are in your staging area.
 
-12. hello world
+12. Diff between git rm and git restore
+ans: if you want to move the whole file back to the untracked state, then we do git rm,
+otherwise if we just want the changes to be moved in working area or staging are then we do git restore
 
-can you see me
+
+14. `` -> if we want to avoid opening a text editor like vim/nano to add commit message we can use 
+this following command
 
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
