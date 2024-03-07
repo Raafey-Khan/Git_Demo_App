@@ -48,11 +48,10 @@ this only works if changes are in your staging area.
 ans: if you want to move the whole file back to the untracked state, then we do git rm,
 otherwise if we just want the changes to be moved in working area or staging are then we do git restore
 
+
+14. `` -> if we want to avoid opening a text editor like vim/nano to add commit message we can use 
+this following command
+
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
 to stanging area which are now be considered as tracked files ready to be commited.
-
-
-first commit id: 1364f403758062275c45cf49be845b3c2bcfb863
-
-second commit id: 4e4b855fa46aec102241a75fb02a5c9ee4a3b421
