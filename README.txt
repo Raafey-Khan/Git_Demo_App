@@ -55,6 +55,8 @@ this following command
 
 Local Repo & Github Repo
 
+15. `push` --> used to just push our local repos on github repo from our local  using git command
+
 For globally or teams accessible way we can achevie we 
 connect Local Repo == Github Repo
 using remote origin
