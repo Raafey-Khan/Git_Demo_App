@@ -59,6 +59,17 @@ For globally or teams accessible way we can achevie we
 connect Local Repo == Github Repo
 using remote origin
 
+
+git remote add <-- your starting to connect with something 
+writing origin is not neccessary Instead you can write
+raafay and whatever name you like
+
+Origin == Name of Remote Connection
+
+Using Origin we will do operations cause origin refer's to
+the remote connection url from which we are connected to the github-repo which is on server
+
+
 `stikcy note`
 using add we will be moving from my working area where i made the homefresh changes lol
 to stanging area which are now be considered as tracked files ready to be commited.
