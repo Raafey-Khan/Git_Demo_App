@@ -91,7 +91,7 @@ raafay and whatever name you like
 
 Origin == Name of Remote Connection
 
-Using Origin we will do operations cause origin refer's to
+Using Origin we will do operations cause origin refer's to.
 the remote connection url from which we are connected to the github-repo which is on server
 
 
