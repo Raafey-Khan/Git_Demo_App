@@ -211,6 +211,8 @@ Note: The name of the remote connection is always used to establish communicatio
      - git push (remote name) (branch name)
 
 
+23. Merge conflicts are a very common scenario
+
 
 Local Repo & Github Repo
 
