@@ -70,7 +70,7 @@ from each otherwise
 19. `git remote rename <oldname> <newname>` : this command renames the remote connection
 
 
-Note: The name of the remote connection is always used to establish communication between the repos
+Note: The name of the remote connection is always used to establish communication between the repos.
 
 
 20. `git add <file1> <file2> <file3>`: this command will add multiple file changes together in the staging area.
