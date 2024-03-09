@@ -11,7 +11,7 @@ When we do `git status` and we see bunch of `untracked files` then these are act
 
 3. `Staging area` -> What all files are going to part of the next version we will create.
 This staging area is the place where git knows what changes will be done from the
-last version to the next version.
+last version to the next version
 
 
 4. `Repository Area` -> This area actually contains the details of all your previous registered version.
