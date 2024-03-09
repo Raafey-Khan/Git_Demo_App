@@ -18,7 +18,6 @@ last version to the next version
 And the files in this area, git already manages them and knows there verison history
 
 
-
 5. `git add <file>` -> moves file from working area to staging area
 
 
