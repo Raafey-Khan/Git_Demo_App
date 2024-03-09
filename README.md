@@ -11,7 +11,7 @@ When we do `git status` and we see bunch of `untracked files` then these are act
 
 3. `Staging area` -> What all files are going to part of the next version we will create.
 This staging area is the place where git knows what changes will be done from the
-last version to the next version.
+last version to the next version
 
 
 4. `Repository Area` -> This area actually contains the details of all your previous registered version.
@@ -70,9 +70,30 @@ from each otherwise
 
 19. `git remote rename <oldname> <newname>` : this command renames the remote connection
 
+
 Note: The name of the remote connection is always used to establish communication between the repos
 
-20. ` `
+
+20. `git add <file1> <file2> <file3>`: this command will add multiple file changes together in the staging area.
+
+
+21. `git add .`: this command will add all files from working repo to staging area.
+
+
+22. Recommended Practice `git pull <remote name> <branch> ` : downloads latest changes from the branch of the mention remote in your local repo
+    condition for pull: Your Working Dir should be clean, Your Staging Directory should be clean
+
+
+### Recommended practice to do
+
+
+     - make changes
+     - git add <file>
+     - git commit
+     - git pull (developer's morning routine when they start open source 😂)
+     - git push (remote name) (branch name)
+
+
 
 Local Repo & Github Repo
 
@@ -88,7 +109,7 @@ raafay and whatever name you like
 
 Origin == Name of Remote Connection
 
-Using Origin we will do operations cause origin refer's to
+Using Origin we will do operations cause origin refer's to.
 the remote connection url from which we are connected to the github-repo which is on server
 
 
