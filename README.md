@@ -81,7 +81,17 @@ Note: The name of the remote connection is always used to establish communicatio
 
 
 22. Recommended Practice `git pull <remote name> <branch> ` : downloads latest changes from the branch of the mention remote in your local repo
+    condition for pull: Your Working Dir should be clean, Your Staging Directory should be clean
 
+
+### Recommended practice to do
+
+
+     - make changes
+     - git add <file>
+     - git commit
+     - git pull (developer's morning routine when they start open source 😂)
+     - git push
 
 
 
